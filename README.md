@@ -13,4 +13,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkipekoglu&langs_count=8&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=360,cb2d3e,f85032&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=berkipekoglu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=38194f">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=berkipekoglu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=38194f&hide_border=true">
