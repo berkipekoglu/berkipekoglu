@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Dart and Flutter
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Flutter or Dart
+<!-- - 💬 Ask me about Flutter or Dart -->
 - 📫 How to reach me: berkipekoglu@gmail.com - Twitter <a href="https://twitter.com/berkipekoglu">@berkipekoglu</a> - Instagram <a href="https://www.instagram.com/berkipekoglu/">@berkipekuglu</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to listen to jazz. Scientific articles attract my attention. I like to review new application designs.
