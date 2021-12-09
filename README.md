@@ -1,7 +1,7 @@
 ### Hello, I'm Berk Ipekoglu 👋
 
 <!-- - 🔭 I’m currently working on Motivatiu -->
-<!-- - 🌱 I’m currently learning Dart and Flutter -->
+🌱 I’m currently learning Vue.js, Python, Flutter & Dart
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about Flutter or Dart -->
